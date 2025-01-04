@@ -90,3 +90,4 @@
 2025-12-09 18:01:33 stabilize build
 2025-07-30 14:14:14 update configs for prod
 2025-11-25 22:38:05 better error handling
+2025-01-04 16:29:35 update schema migration
