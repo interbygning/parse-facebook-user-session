@@ -57,3 +57,4 @@
 2025-09-01 16:22:19 rebuild project
 2025-04-28 20:00:57 minor refactor
 2025-10-02 10:30:15 add TODOs
+2025-04-20 13:14:58 enhance logging
