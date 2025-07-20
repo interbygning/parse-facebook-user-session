@@ -62,3 +62,4 @@
 2025-01-01 08:18:49 clean project structure
 2025-03-17 20:48:33 update feature
 2025-01-15 20:20:26 update roadmap
+2025-07-20 11:37:43 adjust validation rules
